@@ -9,8 +9,6 @@ package com.lzw.algorithm.classical;
 
  */
 
-
-
 public class HanoiTower {
 
     static long count=0;
