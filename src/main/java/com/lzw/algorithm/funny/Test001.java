@@ -14,7 +14,7 @@ public class Test001 {
 
 
          stringBuilder1=new StringBuilder("new one");
-         stringBuilder1.append("third");
+         stringBuilder1.append("-third");
     }
 
     public static void main(String[] args){
@@ -25,6 +25,5 @@ public class Test001 {
 
         System.out.println(stringBuilder);
     }
-
 
 }
